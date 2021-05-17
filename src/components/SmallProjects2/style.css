@@ -1,0 +1,16 @@
+.photo {
+    margin: 20px;
+    width: 250px;
+    height: 250px;
+    border: solid rgb(68, 40, 68)
+}
+
+.small-caption2 {
+    position: absolute;
+    top: 513px;
+    right: 12px;
+    background-color:rgb(231, 214, 231);
+    border: solid rgb(68, 40, 68);
+    color:rgb(68, 40, 68);
+    padding: 2px
+}
