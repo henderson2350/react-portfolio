@@ -1,0 +1,32 @@
+#about-me-row {
+    margin: 20px
+}
+
+#about-me-title-div {
+    text-align: right;
+}
+
+#about-me-div {
+    border-left: solid rgb(68, 40, 68);
+    border-width: 10px;
+    border-right: solid rgb(68, 40, 68);
+    border-width: 10px
+}
+
+#about-me-text {
+    padding: 20px;
+}
+
+#photo-me-div {
+    text-align: center;
+}
+
+#photo-me {
+    width: 180px;
+    height: 180px;
+    border: solid rgb(68, 40, 68)
+;
+
+}
+
+

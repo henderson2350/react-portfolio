@@ -1,28 +1,38 @@
 import React from "react";
 import "./style.css";
 
+const links = [
+  {
+    name: "Email",
+    link: "mailto: henderson2350@gmail.com",
+  },
+  {
+    name: "LinkedIn",
+    link: "https://www.linkedin.com/in/clare-henderson-962ba6195",
+  },
+  {
+    name: "Github",
+    link: "https://github.com/henderson2350",
+  },
+];
+
 function Footer() {
   return (
     <div>
       <div id="contact-me">
-        <div id="contact-me-txt" class="titles align-self-center">
+        <div id="contact-me-txt" className="titles align-self-center">
           <h1>Contact me</h1>
         </div>
       </div>
 
-      <div id="links" class="row">
-        <a href="mailto: henderson2350@gmail.com" target="_blank">
-          Email
-        </a>
-        <a
-          href="https://www.linkedin.com/in/clare-henderson-962ba6195"
-          target="_blank"
-        >
-          LinkedIn
-        </a>
-        <a href="https://github.com/henderson2350" target="_blank">
-          Github
-        </a>
+      <div id="links" className="row align-self-center">
+        {links.map((link) => {
+          return (
+            <a href={link.link} target="_blank">
+              <p>{link.name}</p>
+            </a>
+          );
+        })}
       </div>
 
       <div id="phone-number">

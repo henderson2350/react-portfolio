@@ -6,16 +6,16 @@ import SmallProjects2 from '../SmallProjects2'
 function ProjectContainer() {
   return (
     <div>
-    <div class="row">
-      <div class="col-sm-10">
+    <div className="row">
+      <div className="col-sm-8">
         <FeaturedProject />
       </div>
-      <div class="col-sm-2">
+      <div className="col-sm-4">
         <SmallProjects1 />
       </div>
     </div>
     
-    <div class="row">
+    <div className="row">
         <SmallProjects2 />
     </div>
     </div>

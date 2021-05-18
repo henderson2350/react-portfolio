@@ -3,13 +3,14 @@
 }
 
 #links {
-    justify-content: center
+    text-align: center;
+    display: flex
 }
 
 #links a {
     margin-right: 10px;
     margin-left: 10px;
-    font-size: 30px
+    font-size: 30px;
 }
 
 #phone-number {

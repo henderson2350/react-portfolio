@@ -1,8 +1,9 @@
 #large-photo {
     margin: 20px;
-    width: 500px;
-    height: 500px;
-    border: solid rgb(68, 40, 68)
+    width: 750px;
+    height: 750px;
+    border: solid rgb(68, 40, 68);
+    position: relative
 }
 
 #large-caption {
