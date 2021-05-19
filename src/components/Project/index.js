@@ -18,9 +18,9 @@ function Project(props) {
               <Button id="btn" href={props.GhLink} target='_blank'>
                 Github Link
               </Button>
-              <Button id="btn" href={props.deployedLink} target='_blank'>
+              {props.deployedLink ? <Button id="btn" href={props.deployedLink} target='_blank'>
                 Deployed Link
-              </Button>
+              </Button> : ''}
             </div>
           </Card.Body>
         </div>

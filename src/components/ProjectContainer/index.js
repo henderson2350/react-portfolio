@@ -9,6 +9,8 @@ import workdayScheduler from "../../photos/work-day.png";
 import workoutTracker from "../../photos/workout-tracker.png";
 import budgetTracker from "../../photos/budget-tracker.png";
 import spaceDashboard from "../../photos/weather-photo.jpg";
+import readMeGenerator from '../../photos/readme-generator.png'
+import passwordGenerator from '../../photos/password-generator.png'
 
 const projects = [
   {
@@ -16,6 +18,13 @@ const projects = [
     photo: cookbook,
     GhLink: "https://github.com/henderson2350/cookbook",
     deployedLink: "https://intense-savannah-49257.herokuapp.com/",
+    description: "",
+  },
+  {
+    name: "SPACE DASHBOARD",
+    photo: spaceDashboard,
+    GhLink: "https://github.com/Joshwrightdev/Project-1",
+    deployedLink: "https://joshwrightdev.github.io/Project-1/",
     description: "",
   },
   {
@@ -33,17 +42,10 @@ const projects = [
     description: "",
   },
   {
-    name: "SPACE DASHBOARD",
-    photo: spaceDashboard,
-    GhLink: "https://github.com/Joshwrightdev/Project-1",
-    deployedLink: "https://joshwrightdev.github.io/Project-1/",
-    description: "",
-  },
-  {
     name: "WORKOUT TRACKER",
     photo: workoutTracker,
     GhLink: "https://github.com/henderson2350/workout-tracker",
-    deployedLink: "https://stormy-lake-06489.herokuapp.com/stats",
+    deployedLink: "https://stormy-lake-06489.herokuapp.com/?id=60968e3c5ff7e20015a0e21b",
     description: "",
   },
   {
@@ -53,6 +55,19 @@ const projects = [
     deployedLink: "https://frozen-atoll-39935.herokuapp.com/",
     description: "",
   },
+  {
+    name: 'README GENERATOR',
+    photo: readMeGenerator,
+    GhLink: "https://github.com/henderson2350/good-readme-generator",
+    description: ""
+  },
+  {
+    name: 'PASSWORD GENERATOR',
+    photo: passwordGenerator,
+    description: '',
+    GhLink: 'https://github.com/henderson2350/password-generator',
+    deployedLink: 'https://henderson2350.github.io/password-generator/'
+  }
 ];
 
 function ProjectContainer() {
