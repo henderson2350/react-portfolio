@@ -11,9 +11,10 @@ import Footer from './components/Footer'
 function App() {
   return (
     <Router>
-      <div className = "container">
+      <div className="container-fluid">
         <Navbar />
         <Wrapper>
+          <Route exact path='/react-portfolio' component={Homepage} />
           <Route exact path='/' component={Homepage} />
           <Route exact path='/about' component={AboutMe} />
           <Route exact path='/resume' component={Resumé} />

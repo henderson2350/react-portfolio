@@ -1,9 +1,9 @@
 import React from 'react'
-import AboutMeContent from '../components/AboutMeContent'
+import AboutMeContainer from '../components/AboutMeContainer'
 
 function AboutMe() {
     return (
-        <AboutMeContent />
+        <AboutMeContainer />
     )
 }
 

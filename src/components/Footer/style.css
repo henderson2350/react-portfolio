@@ -3,7 +3,7 @@
 }
 
 #links {
-    text-align: center;
+    justify-content: center;
     display: flex
 }
 

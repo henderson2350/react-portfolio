@@ -6,7 +6,7 @@ function AboutMeContent() {
   return (
     <div id="about-me-row" className="row">
       <div id="about-me-title-div" className="col-sm-2 align-self-center">
-        <h1>About me</h1>
+        <p id="about-me-title">About me</p>
       </div>
       <div id="about-me-div" className="col-sm-8 align-self-center">
         <p id="about-me-text" className="class-center">

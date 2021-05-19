@@ -2,7 +2,8 @@ import React from 'react'
 
 function Resumé() {
     return (
-        <p>resumé</p>
+        // <img src="./photos/clare-henderson-resume.pdf" target="_blank"></img>
+        <a href="./photos/cookbook.png" target="_blank">Resumé</a>
     )
 }
 
