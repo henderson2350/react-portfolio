@@ -10,8 +10,8 @@ function Project(props) {
         <div id="card-image">
           <Card.Img variant="top" src={props.photo} />
         </div>
-        <div id="card-body">
-          <Card.Body>
+        <div>
+          <Card.Body id="card-body">
             <Card.Title id="card-title">{props.name}</Card.Title>
             <Card.Text>{props.description}</Card.Text>
             <div id="btn-div">

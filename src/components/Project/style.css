@@ -19,12 +19,16 @@
 #card-image {
     height: 329px;
     width: 329px;
-    padding-bottom: 3.5px;
-    background-color: black;
-    border-bottom: 14px
 }
 
 #card-title {
     text-align: center;
-    font-size: 25px
+    font-size: 25px;
+}
+
+#card-body {
+    border-top-style: solid;
+    border-radius: 0px;
+    border-color: black;
+    border-width: 3.5px
 }
