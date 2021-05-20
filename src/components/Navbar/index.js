@@ -1,14 +1,15 @@
 import React from 'react'
 import './style.css'
 import pdf from '../../photos/clare-henderson-resume.pdf'
+import { Link } from 'react-router-dom'
 
 function Navbar() {
     return (
         <header>
         <h1>CLARE HENDERSON</h1>
         <nav>
-          <a href="/">Work</a>
-          <a href="/about">About Me</a>
+          <Link to="/">Work</Link>
+          <Link to="/about">About Me</Link>
           <a href= {pdf} target="_blank">Resume</a>
         </nav>
       </header>

@@ -1,6 +1,6 @@
 import './App.css';
 import React from "react"
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { HashRouter as Router, Route } from "react-router-dom";
 import AboutMe from './pages/AboutMe'
 import Homepage from './pages/Homepage'
 import Resumé from './pages/Resumé'
@@ -10,7 +10,7 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-    <Router>
+    <Router basename="/">
       <div className="container-fluid">
         <Navbar />
         <Wrapper>
