@@ -1,6 +1,6 @@
 import React from 'react'
 import './style.css'
-import pdf from '../../photos/clare-henderson-resume.pdf'
+import pdf from '../../photos/resume.pdf'
 import { Link } from 'react-router-dom'
 
 function Navbar() {
