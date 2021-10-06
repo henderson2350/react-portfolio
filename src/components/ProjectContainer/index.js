@@ -4,14 +4,13 @@ import './style.css'
 
 // Importing photos
 import cookbook from "../../photos/cookbook.png";
-import employeeDirectory from "../../photos/employee-directory.png";
 import workdayScheduler from "../../photos/work-day.png";
 import workoutTracker from "../../photos/workout-tracker.png";
 import budgetTracker from "../../photos/budget-tracker.png";
 import spaceDashboard from "../../photos/weather-photo.jpg";
 import readMeGenerator from '../../photos/readme-generator.png'
-import artPortfolio from '../../photos/art-port.png';
-import theLocal from '../../photos/the-local.png';
+import artPortfolio from '../../photos/me.jpg';
+import theLocal from '../../photos/crowd.jpg';
 
 const projects = [
   {

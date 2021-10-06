@@ -4,6 +4,10 @@
     border-width: 0px
 }
 
+#btn:hover {
+    background-color:rgb(138, 93, 131);
+}
+
 #btn-div {
     text-align: center;
 }
