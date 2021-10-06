@@ -3,6 +3,7 @@
     bottom: 1%;
     text-shadow: 1px 1px white;
     color: rgb(51, 21, 39);
+    margin: 0px;
 }
 
 
@@ -25,5 +26,13 @@
 
 #phone-number {
     text-align: center;
-    color:rgb(68, 40, 68)
+    color:rgb(68, 40, 68);
+    font-size: 25px;
+    margin-top: -20px;
+}
+
+#info {
+    text-align: center;
+    color: rgb(68, 40, 68);
+    text-shadow: none;
 }

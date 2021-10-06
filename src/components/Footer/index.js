@@ -34,9 +34,9 @@ function Footer() {
           );
         })}
       </div>
-
-      <div id="phone-number">
-        <p>+1 404 316 4330</p>
+      <p id="phone-number">+1 404 316 4330</p>
+      <div id="info">
+        <p>Made by Clare Henderson using React JS, 2021</p>
       </div>
     </div>
   );
