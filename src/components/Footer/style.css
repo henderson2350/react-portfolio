@@ -20,8 +20,9 @@
 #links a {
     margin-right: 10px;
     margin-left: 10px;
-    font-size: 30px;
+    font-size: 25px;
     color: rgb(68, 40, 68);
+    margin-top: -16px;
 }
 
 #phone-number {
