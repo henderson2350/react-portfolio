@@ -14,14 +14,10 @@ function AboutMeContent() {
           strong technical skill set towards building applications. I have a
           certificate in full stack web development from Georgia Institute of
           Technology, and earned my bachelor’s degree in 2021 at the University
-          of Virginia. I am proficient in HTML, CSS, JavaScript, server-side
-          APIs, Node.js, Express.js, mySQL, Heroku, and more. My specific areas
-          of interest and abilities include object-oriented programming,
-          algorithms, and server-side APIs. During my education and experience
-          in the workforce, which includes two food service jobs and a product
-          development internship, I learned that I thrive in collaborative
-          scenarios. I believe web development at a company with an emphasis on
-          teamwork would be a great fit for me. I bring creativity, technical
+          of Virginia. I am proficient in Java, Javascript, React JS, React Native, and more. 
+          My specific areas of interest and abilities include object-oriented programming,
+          and React. I currently work as a Software Engineer for Infosys, Ltd. 
+          I thrive in collaborative settings. I bring creativity, technical
           skill, an open mind and enthusiasm to all my work.
         </p>
       </div>
