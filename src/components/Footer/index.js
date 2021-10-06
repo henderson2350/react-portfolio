@@ -18,8 +18,8 @@ const links = [
 
 function Footer() {
   return (
-    <div>
-      <div id="contact-me">
+    <div id="entire">
+      <div>
         <div id="contact-me-txt" className="titles align-self-center">
           <h1>Contact me</h1>
         </div>

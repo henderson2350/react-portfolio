@@ -1,16 +1,23 @@
+#entire {
+    position: relative;
+    padding-top: 50px;
+}
+
 #contact-me-txt {
     text-align: center;
+    opacity: 1;
 }
 
 #links {
     justify-content: center;
-    display: flex
+    display: flex;
 }
 
 #links a {
     margin-right: 10px;
     margin-left: 10px;
     font-size: 30px;
+    color: rgb(68, 40, 68);
 }
 
 #phone-number {

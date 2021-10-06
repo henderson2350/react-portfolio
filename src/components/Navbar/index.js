@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom'
 
 function Navbar() {
     return (
+      <div id="try">
         <header>
         <h1>CLARE HENDERSON</h1>
         <nav>
@@ -13,6 +14,7 @@ function Navbar() {
           <a href= {pdf} target="_blank">Resume</a>
         </nav>
       </header>
+      </div>
     )
 }
 
