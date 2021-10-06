@@ -1,6 +1,8 @@
 #about-me-row {
     margin-right: 20px;
-    text-align: center
+    text-align: center;
+    color: rgb(73, 32, 56);
+    font-weight: 450;
 }
 
 #about-me-title-div {
@@ -9,14 +11,19 @@
 
 #about-me-title {
     font-size: 40px;
-    font-weight:450
+    font-weight:450;
+    text-shadow: 1px 1px white;
 }
 
 #about-me-div {
+    background-color: white;
     border-left: solid rgb(68, 40, 68);
     border-width: 10px;
     border-right: solid rgb(68, 40, 68);
     border-width: 10px;
+    position:relative;
+    background: rgb(204, 204, 204); /* Fallback for older browsers without RGBA-support */
+    background: rgba(243, 229, 241, 0.5);
 }
 
 #about-me-text {

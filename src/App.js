@@ -18,8 +18,8 @@ function App() {
           <Route exact path='/' component={Homepage} />
           <Route exact path='/about' component={AboutMe} />
           <Route exact path='/resume' component={Resumé} />
+          <Footer />
         </Wrapper>
-        <Footer />
       </div>      
     </Router>
   );

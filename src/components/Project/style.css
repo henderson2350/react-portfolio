@@ -9,7 +9,7 @@
 }
 
 #card {
-    background-color: rgb(231, 214, 231);
+    background: rgba(243, 229, 241, 0.5);
     border-radius: 0px;
     border-color: black;
     border-width: 3.5px;

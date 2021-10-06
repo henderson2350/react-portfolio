@@ -1,7 +1,10 @@
 #entire {
     position: relative;
-    padding-top: 50px;
+    bottom: 1%;
+    text-shadow: 1px 1px white;
+    color: rgb(51, 21, 39);
 }
+
 
 #contact-me-txt {
     text-align: center;

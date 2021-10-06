@@ -3,7 +3,7 @@ header {
     margin: 20px;
     padding: 20px;
     text-align: center;
-    background-color: rgb(231, 214, 231);
+    background-color: rgba(243, 229, 241, 0.5);
     color: black;
     border: solid rgb(68, 40, 68);
 }
