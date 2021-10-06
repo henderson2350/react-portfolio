@@ -1,6 +1,6 @@
 import React from 'react'
 import './style.css'
-import pdf from '../../photos/resume.pdf'
+import pdf from '../../photos/resume-oct-6.pdf'
 import { Link } from 'react-router-dom'
 
 function Navbar() {

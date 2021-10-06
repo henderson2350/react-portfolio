@@ -10,9 +10,17 @@ import workoutTracker from "../../photos/workout-tracker.png";
 import budgetTracker from "../../photos/budget-tracker.png";
 import spaceDashboard from "../../photos/weather-photo.jpg";
 import readMeGenerator from '../../photos/readme-generator.png'
-import passwordGenerator from '../../photos/password-generator.png'
+import artPortfolio from '../../photos/art-port.png';
+import theLocal from '../../photos/the-local.png';
 
 const projects = [
+  {
+    name: "ART PORTFOLIO",
+    photo: artPortfolio,
+    description: '',
+    ghLink: 'https://github.com/henderson2350/painting-portfolio2',
+    deployedLink: 'https://henderson2350.github.io/painting-portfolio2/#/'
+  },
   {
     name: "COOKBOOK",
     photo: cookbook,
@@ -21,17 +29,18 @@ const projects = [
     description: "",
   },
   {
+    name: "THE LOCAL",
+    photo: theLocal,
+    GhLink: 'https://github.com/hanfernan/the-local',
+    deployedLink: 'https://lit-retreat-16918.herokuapp.com/',
+    description: ''
+
+  },
+  {
     name: "SPACE DASHBOARD",
     photo: spaceDashboard,
     GhLink: "https://github.com/Joshwrightdev/Project-1",
     deployedLink: "https://joshwrightdev.github.io/Project-1/",
-    description: "",
-  },
-  {
-    name: "EMPLOYEE DIRECTORY",
-    photo: employeeDirectory,
-    GhLink: "https://github.com/henderson2350/employee-directory",
-    deployedLink: "https://henderson2350.github.io/employee-directory/",
     description: "",
   },
   {
@@ -60,13 +69,6 @@ const projects = [
     photo: readMeGenerator,
     GhLink: "https://github.com/henderson2350/good-readme-generator",
     description: ""
-  },
-  {
-    name: 'PASSWORD GENERATOR',
-    photo: passwordGenerator,
-    description: '',
-    GhLink: 'https://github.com/henderson2350/password-generator',
-    deployedLink: 'https://henderson2350.github.io/password-generator/'
   }
 ];
 
