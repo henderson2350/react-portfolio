@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.0b3557c6.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.476330c1.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.476330c1.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.0dc2dfc5.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.0dc2dfc5.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.7ed7a4df.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.7ed7a4df.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/react-portfolio/static/css/2.4c97ca4f.chunk.css",
@@ -19,8 +19,8 @@
     "static/media/cookbook.48acf12b.png": "/react-portfolio/static/media/cookbook.48acf12b.png",
     "static/media/crowd.9ae1a89c.jpg": "/react-portfolio/static/media/crowd.9ae1a89c.jpg",
     "static/media/me.47a8cf30.jpg": "/react-portfolio/static/media/me.47a8cf30.jpg",
+    "static/media/oct-6.556174ed.pdf": "/react-portfolio/static/media/oct-6.556174ed.pdf",
     "static/media/readme-generator.8fc86ce6.png": "/react-portfolio/static/media/readme-generator.8fc86ce6.png",
-    "static/media/resume-oct-6.d5d6de40.pdf": "/react-portfolio/static/media/resume-oct-6.d5d6de40.pdf",
     "static/media/updated-shot.8cabf1c6.jpg": "/react-portfolio/static/media/updated-shot.8cabf1c6.jpg",
     "static/media/weather-photo.893fc9f2.jpg": "/react-portfolio/static/media/weather-photo.893fc9f2.jpg",
     "static/media/work-day.0011d06a.png": "/react-portfolio/static/media/work-day.0011d06a.png",
@@ -31,6 +31,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.6e081987.chunk.js",
     "static/css/main.0b3557c6.chunk.css",
-    "static/js/main.476330c1.chunk.js"
+    "static/js/main.0dc2dfc5.chunk.js"
   ]
 }
